@@ -1,0 +1,27 @@
+body{
+    padding-top: 70px;
+    background: rgba(245, 222, 179, 0.103);
+
+}
+.jumbotron{
+    background-color: rgba(0, 0, 0, 0.815);
+    color: snow;
+}
+.thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: 200px;
+    width:400px;
+}
+.thumbnail{
+    border: 1px solid black;
+}
+#main-footer .foot_content{
+    text-align:center;
+    background: rgba(0, 0, 0, 0.815);
+    color:white;
+    padding:20px;
+    
+}
+
+  
